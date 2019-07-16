@@ -38,7 +38,8 @@
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-Mechanics-Books/blob/master/qm(27).pdf" style="text-decoration:none;">Emery's Elements of Medical Genetics </a></b></li>
          <li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-Mechanics-Books/blob/master/qm(28).pdf" style="text-decoration:none;">REGENESIS: How Synthetic Biology Will Reinvent Nature and Ourselves</a></b></li>                                 
                                 
-                                
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-Mechanics-Books/blob/master/qm(3).pdf" style="text-decoration:none;">The Selfish Gene </a></b></li>
+         <li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-Mechanics-Books/blob/master/qm(14).pdf" style="text-decoration:none;">The Cartoon Guide to Genetics</a></b></li>                                 
                                 
                                 
  
