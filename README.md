@@ -9,7 +9,7 @@
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-Mechanics-Books/blob/master/qm(6).pdf" style="text-decoration:none;">DNA Fingerprinting in Plants: Principles, Methods, and Applications</a></b></li>
                           
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-Mechanics-Books/blob/master/qm(7).pdf" style="text-decoration:none;">From Genes to Genomes: Concepts and Applications of DNA Technology </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-Mechanics-Books/blob/master/qm(8).pdf" style="text-decoration:none;"Insect Molecular Genetics: An Introduction to Principles and Applications</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-Mechanics-Books/blob/master/qm(8).pdf" style="text-decoration:none;">Insect Molecular Genetics: An Introduction to Principles and Applications</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-Mechanics-Books/blob/master/qm(9).pdf" style="text-decoration:none;">Genetics For Dummies </a></b></li>
                                 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-Mechanics-Books/blob/master/qm(10).pdf" style="text-decoration:none;">Genome: The Autobiography of a Species In 23 Chapters </a></b></li>  
